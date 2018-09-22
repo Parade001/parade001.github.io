@@ -9,7 +9,9 @@ categories: 初来乍到
 
 ## 音乐 Music type
 
-<font color=#A4C639 size=14>只要有音乐，在哪里都是好地方</font>
+[Spotify](open.spotify.com)：
+
+<font color=#A4C639>只要有音乐，在哪里都是好地方</font>
 
 ![Music](http://img5.imgtn.bdimg.com/it/u=798237288,2214483605&fm=26&gp=0.jpg "Music")
 
@@ -32,19 +34,20 @@ categories: 初来乍到
 
 ## 我的画廊  Photo
 
+是我：
 ![是我](https://wx4.sinaimg.cn/mw690/005CAH5agy1fvi8sob117j30u01hc18x.jpg "是我")
 
-<font color=#A4C639 size=14>试着了解自己，未知的自己比已知的自己可能更强，也可能更脆弱</font>
+<font color=#A4C639>试着了解自己，未知的自己比已知的自己可能更强，也可能更脆弱</font>
 
 
 [for weibo](https://weibo.com/p/1005055150910348/photos?from=page_100505&mod=TAB#place)
 
 
 ## 随笔 for myself
-
+日记：
 ![日记](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1972871295,2239076091&fm=26&gp=0.jpg "日记")
 
-<font color=#A4C639 size=14>你有看日记从笑看到哭吗？</font>
+<font color=#A4C639>你有看日记从笑看到哭吗？</font>
 
 [从今天说](www.jianshu.com/u/fb6b0e8a6c7e)
 
@@ -59,7 +62,7 @@ categories: 初来乍到
 
 
 
-<font color=#A4C639 size=12>轮子总是要造的，这是前行的动力啊</font>
+<font color=#A4C639>轮子总是要造的，这是前行的动力啊</font>
 
 
 [Tmail]()
@@ -70,10 +73,10 @@ categories: 初来乍到
 [闲鱼]()
 
 ## 一些乱七八糟的照片  garden
-
+手心里的宝：
 ![手心里的宝](http://static.ngchina.cn/repo/image/misc/opus/2018/09/20/67057b93-3dfb-4bda-8bd3-cf90dfe15046.jpg "手心里的宝")
 
-<font color=#A4C639 size=14>我爱你，不光因为你的样子，还因为，和你在一起时，我的样子！</font>
+<font color=#A4C639>我爱你，不光因为你的样子，还因为，和你在一起时，我的样子！</font>
 
 [for myself]()
 
