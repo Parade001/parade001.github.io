@@ -11,6 +11,8 @@ categories: Linux
 
 只要有音乐，在哪里都是好地方
 
+![Music](http://img5.imgtn.bdimg.com/it/u=798237288,2214483605&fm=26&gp=0.jpg "Music")
+
 [Peacful&focus](http://y.qq.com/w/taoge.html?hostuin=1294362176&id=4176662292&appshare=android_qq)
 
 
@@ -30,6 +32,7 @@ categories: Linux
 
 ## 我的画廊  Photo
 
+![是我](https://wx4.sinaimg.cn/mw690/005CAH5agy1fvi8sob117j30u01hc18x.jpg "是我")
 试着了解自己，未知的自己比已知的自己可能更强，也可能更脆弱
 
 
@@ -37,6 +40,8 @@ categories: Linux
 
 
 ## 随笔 for myself
+
+![日记](https://ss0.bdstatic.com/70cFvHSh_Q1YnxGkpoWK1HF6hhy/it/u=1972871295,2239076091&fm=26&gp=0.jpg "日记")
 
 你有看日记从笑看到哭吗？
 
@@ -49,6 +54,9 @@ categories: Linux
 
 ## 商店 shop
 
+![大雄科技](https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=650496915,3476895199&fm=26&gp=0.jpg "大雄科技")
+
+
 轮子总是要造的，这是前行的动力啊
 
 [Tmail]()
@@ -56,9 +64,11 @@ categories: Linux
 
 [taobao]()
 
-
+[闲鱼]()
 
 ## 一些乱七八糟的照片  garden
+
+![手心里的宝](http://static.ngchina.cn/repo/image/misc/opus/2018/09/20/67057b93-3dfb-4bda-8bd3-cf90dfe15046.jpg "手心里的宝")
 
 我爱你，不光因为你的样子，还因为，和你在一起时，我的样子！
 
