@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Bear</title>
   
-  <subtitle>北极熊的博客网站</subtitle>
+  <subtitle>它来自极地</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://parade001.github.io/"/>
