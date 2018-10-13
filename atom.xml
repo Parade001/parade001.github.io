@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://parade001.github.io/"/>
-  <updated>2018-10-09T13:33:41.140Z</updated>
+  <updated>2018-10-13T14:38:29.752Z</updated>
   <id>http://parade001.github.io/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Sid Meier&#39;s Civilization V 汉化</title>
+    <link href="http://parade001.github.io/2018/10/13/Sid-Meier-s-Civilization/"/>
+    <id>http://parade001.github.io/2018/10/13/Sid-Meier-s-Civilization/</id>
+    <published>2018-10-13T04:52:27.000Z</published>
+    <updated>2018-10-13T14:38:29.752Z</updated>
+    
+    <content type="html"><![CDATA[<p><img src="https://ss0.bdstatic.com/94oJfD_bAAcT8t7mm9GUKT-xh_/timg?image&amp;quality=100&amp;size=b4000_4000&amp;sec=1539441406&amp;di=cee0cb8fa9ee2a8c84ea7f6821b22b37&amp;src=http://img3.pcgames.com.cn/pcgames/1009/18/2009794_chichen-itza_thumb.jpg" alt="1" title="1"></p><p><a href="https://pan.baidu.com/s/1SrcAcdIMPVazD6rKcbaJRg" target="_blank" rel="noopener">汉化包下载地址key：p018</a></p><p>1.解压<br><figure class="highlight plain"><figcaption><span>bash</span></figcaption><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br></pre></td><td class="code"><pre><span class="line">tar -zxfv filename.tar.gz</span><br><span class="line"></span><br><span class="line">2.启动文明V 生成配置文件</span><br><span class="line"></span><br><span class="line">3.替换Sid Meier&apos;s Civilization V/steamassets/assets下同名文件</span><br><span class="line">4.替换config.ini对应内容</span><br><span class="line">```git bash</span><br><span class="line">vim home/username/.local/share/aspyr/Sid Meier&apos;s Civilization 5</span><br><span class="line"></span><br><span class="line">#66行 en_US替换zh_CN</span><br></pre></td></tr></table></figure></p><font color="red"><br>注意第三步！！！这个文件夹路径在Steam-&gt;库-&gt;civ V 右键属性-&gt;本地文件-&gt;游览本地文件</font><p>5.重启运行汉化效果已经非常好！图片就不贴了！实测效果很好</p><p>最后 时间都去哪儿了</p><p>贪玩文明，开一局玩一个星期！</p><p>只用一把新手变老吊！</p>]]></content>
+    
+    <summary type="html">
+    
+      发现文明5有Linux版本就试着先去试试，但是发现并不支持中文，现在写写汉化过程，网上的那些汉化链接都失效了，还是google出来的包，顺便就重新整理下网上少的可怜的Linux汉化教程
+    
+    </summary>
+    
+      <category term="文明V汉化教程" scheme="http://parade001.github.io/categories/%E6%96%87%E6%98%8EV%E6%B1%89%E5%8C%96%E6%95%99%E7%A8%8B/"/>
+    
+    
+      <category term="运行环境ubuntu" scheme="http://parade001.github.io/tags/%E8%BF%90%E8%A1%8C%E7%8E%AF%E5%A2%83ubuntu/"/>
+    
+  </entry>
   
   <entry>
     <title>aliyun服务器搭建中的问题</title>
